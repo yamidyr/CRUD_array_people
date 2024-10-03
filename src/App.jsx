@@ -1,6 +1,5 @@
 import { useState } from 'react';
 import './App.css'
-import { Person } from './components/Person';
 import { People } from './components/People';
 
 function App() {
